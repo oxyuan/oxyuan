@@ -21,7 +21,7 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif">
     <text x="492" y="86" font-size="46" font-weight="600" letter-spacing="16" fill="#e6edf3" text-anchor="middle">OXYUAN</text>
     <rect class="caret" x="648" y="52" width="3" height="40" fill="#58a6ff"/>
-    <text x="497" y="124" font-size="12" letter-spacing="5" fill="#8d96a0" text-anchor="middle">大山 / GITHUB.COM/OXYUAN</text>
+    <text x="497" y="124" font-size="13" letter-spacing="4.5" fill="#8d96a0" text-anchor="middle">大山 / GITHUB.COM/OXYUAN</text>
     <line class="track" x1="0" y1="160" x2="1000" y2="160" stroke-width="1"/>
     <rect class="beam" x="0" y="158.5" width="240" height="3" fill="url(#sweep)"/>
   </g>
